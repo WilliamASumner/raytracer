@@ -1,6 +1,6 @@
 Intro: 
 This is just a simplistic raytracer project for my own amusement.
-I am currently in the process of learning to program raytracers and would appreciate any and all suggestions to make my code better! 
+I am currently in the process of learning to program raytracers and would appreciate any and all suggestions to make my code better! I've included several ppm files that were generated with this program. 
 
 Enjoy! :) 
 
